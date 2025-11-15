@@ -31,7 +31,7 @@
     "download-git-repo": "1.0.1",
     "ejs": "2.5.6",
     "esbuild": "0.13.15",
-    "esbuild-node-externals": "1.4.0",
+    "esbuild-node-externals": "1.18.0",
     "fkill": "5.0.0",
     "fs-extra": "2.1.2",
     "global-modules": "0.2.3",
